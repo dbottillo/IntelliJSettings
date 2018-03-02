@@ -1,0 +1,7 @@
+<templateSet group="C/C++">
+  <template name="moc" value="Mockito.`when`" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="KOTLIN" value="true" />
+    </context>
+  </template>
+</templateSet>

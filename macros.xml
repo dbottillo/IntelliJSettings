@@ -1,9 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <application>
   <component name="ActionMacroManager">
-    <macro name="save_and_optimize">
-      <action id="ReformatCode" />
+    <macro name="formatted save">
       <action id="OptimizeImports" />
+      <action id="ReformatCode" />
       <action id="SaveAll" />
     </macro>
   </component>
 </application>
+
