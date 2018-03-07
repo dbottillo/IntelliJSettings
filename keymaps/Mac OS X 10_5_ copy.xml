@@ -1,8 +1,17 @@
 <keymap version="1" name="Mac OS X 10.5+ copy" parent="Mac OS X 10.5+">
+  <action id="CleanGradleProject">
+    <keyboard-shortcut first-keystroke="ctrl meta c" />
+  </action>
   <action id="Macro.formatted save">
     <keyboard-shortcut first-keystroke="meta s" />
   </action>
+  <action id="RebuildGradleProject">
+    <keyboard-shortcut first-keystroke="ctrl meta b" />
+  </action>
   <action id="SaveAll" />
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="ctrl meta s" />
+  </action>
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="ctrl alt enter" />
   </action>
