@@ -61,6 +61,9 @@
   <editorconfig>
     <option name="ENABLED" value="false" />
   </editorconfig>
+  <codeStyleSettings language="JAVA">
+    <option name="METHOD_ANNOTATION_WRAP" value="0" />
+  </codeStyleSettings>
   <codeStyleSettings language="XML">
     <option name="FORCE_REARRANGE_MODE" value="1" />
     <indentOptions>
@@ -220,5 +223,6 @@
   </codeStyleSettings>
   <codeStyleSettings language="kotlin">
     <option name="METHOD_ANNOTATION_WRAP" value="0" />
+    <option name="FIELD_ANNOTATION_WRAP" value="0" />
   </codeStyleSettings>
 </code_scheme>
