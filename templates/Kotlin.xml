@@ -17,7 +17,7 @@
       <option name="KOTLIN" value="true" />
     </context>
   </template>
-  <template name="mock" value="@Mock lateinit var " toReformat="false" toShortenFQNames="true">
+  <template name="mock" value="@Mock lateinit var " description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="KOTLIN" value="true" />
     </context>
