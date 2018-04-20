@@ -1,10 +1,23 @@
 <templateSet group="Kotlin">
-  <template name="mock" value="`when`" description="" toReformat="false" toShortenFQNames="true">
+  <template name="mock_val" value="val $VAR0$ = mock&lt;$VAR1$&gt;()" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR0" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAR1" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="KOTLIN" value="true" />
     </context>
   </template>
   <template name="when_mock" value="Mockito.`when`(" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="KOTLIN" value="true" />
+    </context>
+  </template>
+  <template name="ts" value="@JvmField @Rule val mockitoRule = MockitoJUnit.rule()!!&#10;&#10;@Mock lateinit var underTest: $VAR0$&#10;&#10;@Before&#10;fun setup(){&#10;    underTest = $VAR0$()&#10;}" description="test setup" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR0" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN" value="true" />
+    </context>
+  </template>
+  <template name="mock" value="@Mock lateinit var " description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="KOTLIN" value="true" />
     </context>
