@@ -6,9 +6,7 @@
   <option name="CONSOLE_FONT_SIZE" value="12" />
   <attributes>
     <option name="CONSOLE_NORMAL_OUTPUT">
-      <value>
-        <option name="FOREGROUND" value="83962" />
-      </value>
+      <value />
     </option>
     <option name="LOGCAT_DEBUG_OUTPUT">
       <value>
