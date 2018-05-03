@@ -1,7 +1,34 @@
 <scheme name="Darcula copy" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
   <option name="EDITOR_FONT_SIZE" value="14" />
+  <option name="EDITOR_FONT_NAME" value="Menlo" />
   <option name="CONSOLE_FONT_NAME" value="Menlo" />
   <option name="CONSOLE_FONT_SIZE" value="12" />
-  <option name="EDITOR_FONT_NAME" value="Menlo" />
+  <attributes>
+    <option name="CONSOLE_NORMAL_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="83962" />
+      </value>
+    </option>
+    <option name="LOGCAT_DEBUG_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="7db5bb" />
+      </value>
+    </option>
+    <option name="LOGCAT_INFO_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="bba298" />
+      </value>
+    </option>
+    <option name="LOGCAT_VERBOSE_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="a1bbab" />
+      </value>
+    </option>
+    <option name="LOGCAT_WARNING_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="ba9ebb" />
+      </value>
+    </option>
+  </attributes>
 </scheme>
