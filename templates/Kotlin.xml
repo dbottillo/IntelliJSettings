@@ -22,4 +22,11 @@
       <option name="KOTLIN" value="true" />
     </context>
   </template>
+  <template name="ass_is" value="assertThat($VAR0$, `is`($VAR1$))" description="assert that is" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR0" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAR1" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN" value="true" />
+    </context>
+  </template>
 </templateSet>
