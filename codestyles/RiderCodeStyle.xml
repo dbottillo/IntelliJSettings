@@ -60,6 +60,10 @@
       </value>
     </option>
   </JavaCodeStyleSettings>
+  <JetCodeStyleSettings>
+    <option name="CONTINUATION_INDENT_FOR_EXPRESSION_BODIES" value="false" />
+    <option name="WRAP_ELVIS_EXPRESSIONS" value="0" />
+  </JetCodeStyleSettings>
   <Objective-C-extensions>
     <file>
       <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="Import" />
