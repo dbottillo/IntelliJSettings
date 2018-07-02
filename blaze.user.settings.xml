@@ -1,0 +1,5 @@
+<application>
+  <component name="BlazeUserSettings">
+    <option name="bazelBinaryPath" value="/usr/local/bin/bazel" />
+  </component>
+</application>
