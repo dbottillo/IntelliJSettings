@@ -11,7 +11,7 @@
       <option name="KOTLIN" value="true" />
     </context>
   </template>
-  <template name="ts" value="@JvmField @Rule val mockitoRule = MockitoJUnit.rule()!!&#10;&#10;@Mock lateinit var underTest: $VAR0$&#10;&#10;@Before&#10;fun setup(){&#10;    underTest = $VAR0$()&#10;}" description="test setup" toReformat="false" toShortenFQNames="true">
+  <template name="ts" value="@JvmField @Rule val mockitoRule = MockitoJUnit.rule()!!&#10;&#10;lateinit var underTest: $VAR0$&#10;&#10;@Before&#10;fun setup(){&#10;    underTest = $VAR0$()&#10;}" description="test setup" toReformat="false" toShortenFQNames="true">
     <variable name="VAR0" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="KOTLIN" value="true" />
