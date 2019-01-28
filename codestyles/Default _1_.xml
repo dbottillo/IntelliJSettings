@@ -313,6 +313,9 @@
     </arrangement>
   </codeStyleSettings>
   <codeStyleSettings language="kotlin">
+    <option name="KEEP_BLANK_LINES_IN_DECLARATIONS" value="4" />
+    <option name="KEEP_BLANK_LINES_IN_CODE" value="4" />
+    <option name="KEEP_BLANK_LINES_BEFORE_RBRACE" value="4" />
     <option name="FIELD_ANNOTATION_WRAP" value="0" />
   </codeStyleSettings>
 </code_scheme>
