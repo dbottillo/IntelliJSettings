@@ -76,6 +76,11 @@
       <option name="INCLUDE" value="true" />
     </filter>
   </component>
+  <component name="NodeRendererSettings">
+    <Renderer ID="ClassRenderer">
+      <option name="SHOW_FQ_TYPE_NAMES" value="true" />
+    </Renderer>
+  </component>
   <component name="XDebuggerSettings">
     <data-views />
     <general />
