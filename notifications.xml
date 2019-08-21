@@ -4,6 +4,7 @@
     <notification groupId="Android Property Files Updating" />
     <notification groupId="Android Session Restarted" displayType="TOOL_WINDOW" />
     <notification groupId="Android/Gradle Notification Group" />
+    <notification groupId="Build sync orphan modules" displayType="NONE" shouldLog="false" />
     <notification groupId="Clean artifact" />
     <notification groupId="Compiler" displayType="NONE" />
     <notification groupId="Execution" displayType="NONE" />
