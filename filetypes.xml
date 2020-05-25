@@ -5,6 +5,7 @@
       <mapping pattern="ArtistsPageParserTest" type="CLASS" />
       <mapping pattern="DatePickerFragment" type="JAVA" />
       <mapping pattern="google_tag_manager_container" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="mockmaker" type="PLAIN_TEXT" />
       <mapping pattern="layout_transaction_row" type="XML" />
       <mapping ext="fnc" type="DBN-PSQL" />
