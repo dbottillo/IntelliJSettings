@@ -3,6 +3,7 @@
     <ignoreFiles list="*.hprof;*.orig;*.pyc;*.pyo;*.rbc;*_Factory.java;*_MembersInjector.java;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;_x.json;rcs;" />
     <extensionMap>
       <mapping pattern="ArtistsPageParserTest" type="CLASS" />
+      <mapping ext="webp" type="Image" />
       <mapping pattern="DatePickerFragment" type="JAVA" />
       <mapping pattern="google_tag_manager_container" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
