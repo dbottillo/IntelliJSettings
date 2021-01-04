@@ -9,6 +9,9 @@
   <component name="DaemonCodeAnalyzerSettings">
     <option name="ERROR_STRIPE_MARK_MIN_HEIGHT" value="3" />
   </component>
+  <component name="DefaultFont">
+    <option name="FONT_SIZE" value="14" />
+  </component>
   <component name="EditorSettings">
     <option name="USE_SOFT_WRAPS" value="CONSOLE" />
   </component>
