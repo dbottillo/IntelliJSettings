@@ -5,6 +5,7 @@
       <mapping pattern="ArtistsPageParserTest" type="CLASS" />
       <mapping ext="webp" type="Image" />
       <mapping pattern="DatePickerFragment" type="JAVA" />
+      <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="google_tag_manager_container" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
