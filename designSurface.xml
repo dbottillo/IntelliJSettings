@@ -3,6 +3,7 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="../../../../layout/custom_preview.xml" value="0.1" />
+        <entry key="feature_decks/src/main/res/layout/fragment_add_to_deck.xml" value="0.1" />
         <entry key="feature_home/home_ui/src/main/res/layout/fragment_home.xml" value="0.2504528985507246" />
       </map>
     </option>
