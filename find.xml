@@ -1,8 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="Project 'MTGSearchInfoNew'" />
+    <option name="defaultScopeName" value="Project 'MTGSearchInfoNew'" />
+    <option name="SEARCH_SCOPE" value="Project 'MTGSearchInfoNew'" />
+    <option name="FILE_MASK" value="*.gradle" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
